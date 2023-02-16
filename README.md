@@ -1,7 +1,9 @@
 # Exemplo de Projeto
 
-## Curso de Desenvolvimneto de Sistemas
+## Curso de Desenvolvimento de Sistemas
 
 # shiba
+# double shiba
+# shiba²
 
 este é um exemplo de projeto com git
